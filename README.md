@@ -1,1 +1,1 @@
-Devops 
+Devops concepts covered so far
